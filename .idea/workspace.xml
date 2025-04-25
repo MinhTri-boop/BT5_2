@@ -11,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -65,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745494772525</updated>
       <workItem from="1745494773585" duration="12300000" />
-      <workItem from="1745588390767" duration="3072000" />
+      <workItem from="1745588390767" duration="3412000" />
     </task>
     <task id="LOCAL-00001" summary="BT5_2">
       <option name="closed" value="true" />
@@ -75,7 +80,39 @@
       <option name="project" value="LOCAL" />
       <updated>1745591411655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BT5_2">
+      <option name="closed" value="true" />
+      <created>1745591585218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745591585218</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BT5_2">
+      <option name="closed" value="true" />
+      <created>1745591632455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745591632455</updated>
+    </task>
+    <task id="LOCAL-00004" summary="BT5_2">
+      <option name="closed" value="true" />
+      <created>1745591782196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745591782196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BT5_2">
+      <option name="closed" value="true" />
+      <created>1745591808071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745591808071</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
